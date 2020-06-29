@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Ish Venkatesh
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Research Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Marquette University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include axon regeneration, gene regulation and 3D genomics.
 
-interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+Interests:
+- Axon regeneration
+- Spinal Cord Injury
+- Gene regulation
+- 3D Genomics
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Neuroscience
+    institution: University of Wisconsin, Milwaukee
+    year: 2014
+  - course: Bachelors in Biotechnology
+    institution: Anna University
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,7 +51,7 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/ishwariyavenkatesh
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -70,6 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research revolves around understanding molecular mechanisms that control axon growth, with the ultimate goal of using this information to induce axon regeneration following injury. I have spent the last decade tackling the problem of why injured neurons in the central nervous system fail to upregulate the right sets of genes supportive of axon re-growth, which ultimately determines regenerative success. I have identified and addressed transcriptional and epigenetic barriers to re-growth using a combination of methods including Bioinformatics, Functional Genomics, and High-Content Screening. I am currently looking to transition to a tenure track position in India in the coming year.
