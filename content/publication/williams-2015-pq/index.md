@@ -1,0 +1,12 @@
+---
+title: "MASH1/Ascl1a Leads to GAP43 Expression and Axon Regeneration in the Adult CNS"
+date: 2015-03-01
+publishDate: 2020-06-29T02:39:06.984457Z
+authors: ["Ryan R Williams", "Ishwariya Venkatesh", "Damien D Pearse", "Ava J Udvadia", "Mary Bartlett Bunge"]
+publication_types: ["2"]
+abstract: "Unlike CNS neurons in adult mammals, neurons in fish and embryonic mammals can regenerate their axons after injury. These divergent regenerative responses are in part mediated by the growth-associated expression of select transcription factors. The basic helix-loop-helix (bHLH) transcription factor, MASH1/Ascl1a, is transiently expressed during the development of many neuronal subtypes and regulates the expression of genes that mediate cell fate determination and differentiation. In the adult zebrafish (Danio rerio), Ascl1a is also transiently expressed in retinal ganglion cells (RGCs) that regenerate axons after optic nerve crush. Utilizing transgenic zebrafish with a 3.6 kb GAP43 promoter that drives expression of an enhanced green fluorescent protein (EGFP), we observed that knock-down of Ascl1a expression reduces both regenerative gap43 gene expression and axonal growth after injury compared to controls. In mammals, the development of noradrenergic brainstem neurons requires MASH1 expression. In contrast to zebrafish RGCs, however, MASH1 is not expressed in the mammalian brainstem after spinal cord injury (SCI). Therefore, we utilized adeno-associated viral (AAV) vectors to overexpress MASH1 in four month old rat (Rattus norvegicus) brainstem neurons in an attempt to promote axon regeneration after SCI. We discovered that after complete transection of the thoracic spinal cord and implantation of a Schwann cell bridge, animals that express MASH1 exhibit increased noradrenergic axon regeneration and improvement in hindlimb joint movements compared to controls. Together these data demonstrate that MASH1/Ascl1a is a fundamental regulator of axonal growth across vertebrates and can induce modifications to the intrinsic state of neurons to promote functional regeneration in response to CNS injury."
+featured: false
+publication: "*PLoS One*"
+tags: ["Mendeley Import (Apr 03)"]
+---
+
