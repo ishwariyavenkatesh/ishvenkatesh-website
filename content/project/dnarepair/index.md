@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Epigenetic barriers to axon re-growth"
-summary: "A fundamental barrier to axon re-growth is chromatin accessibility. We and others have shown that as neurons mature, growth-relevant genes shift to a closed conformation limiting transcription factor binding and re-growth response. Reversing this epigenetic constraint is key to full efficacy of gene treatments. Using bioinformatics modeling, we have identified a targeted set of chromatin modifiers predicted to revert accessibility of growth genes to a more open conformation in adult neurons, and are currently screening candidates in functional assays."
+title: "DNA repair and axon growth"
+summary: "Recently we have shown that forced overexpression of two transcription factors KLF6/Nr5a2 leads to the upregulation of genes involved in DNA repair. DNA damage is a frequent consequence of increased cellular metabolism, such as transcription in many dividing cells including neuronal progenitor cells. During development, DNA repair mechanisms are active in progenitor cells, allowing repair to proceed alongside active transcription, preserving genome integrity, and promoting effective axon growth. Using bioinformatics approaches, we have identified that several pro-growth TFs occupy DNA repair genes during developmental axon growth. We are now exploring the link between DNA repair and axon growth in CNS neurons."
 authors: []
 tags: []
 categories: []
-date: 2020-06-28T08:30:39+05:30
+date: 2020-06-25T19:45:59+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

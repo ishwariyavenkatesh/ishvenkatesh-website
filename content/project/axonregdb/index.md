@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Epigenetic barriers to axon re-growth"
-summary: "A fundamental barrier to axon re-growth is chromatin accessibility. We and others have shown that as neurons mature, growth-relevant genes shift to a closed conformation limiting transcription factor binding and re-growth response. Reversing this epigenetic constraint is key to full efficacy of gene treatments. Using bioinformatics modeling, we have identified a targeted set of chromatin modifiers predicted to revert accessibility of growth genes to a more open conformation in adult neurons, and are currently screening candidates in functional assays."
+title: "Open-access regulatory genomics database"
+summary: "Mammalian CNS neurons aren’t always refractory to re-growth, instead lose the ability in a discrete developmental transition. Identifying the molecular regulatory codes that control this developmental transition is the first-step in devising strategies to reprogram adult neurons back to a growth-competent state. Projects like the ENCODE consortia have generated several brain-specific genomics datasets that comprehensively profile various molecular changes across neuronal maturation. Yet, accessing, integrating and visualizing these datasets require computational expertise. We are currently developing an open-access, interactive website that allows users to probe temporal patterns of gene expression, chromatin accessibility, functional enhancers and transcription factor binding across mouse forebrain development."
 authors: []
 tags: []
 categories: []
-date: 2020-06-28T08:30:39+05:30
+date: 2020-06-27T08:54:20+05:30
 
 # Optional external URL for project (replaces project detail page).
 external_link: ""

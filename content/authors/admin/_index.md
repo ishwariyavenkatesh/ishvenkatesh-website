@@ -42,13 +42,17 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  #link: 'mailto:ishwariya.venkatesh@marquette.edu'  # For a direct email link, use "mailto:test@example.org".
+  mailto: ishwariya.venkatesh@marquette.edu
+
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/Ishwariya13
+
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 - icon: github
   icon_pack: fab
   link: https://github.com/ishwariyavenkatesh
