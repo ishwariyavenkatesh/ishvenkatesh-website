@@ -33,8 +33,8 @@ date_format = "Jan 2006"
   company = "Marquette University"
   company_url = ""
   location = "Wisconsin, USA"
-  date_start = "2014-08-01"
-  date_end = "2016-12-31"
+  date_start = "2014-09-01"
+  date_end = "2018-02-01"
   description = """"""
 
 +++
