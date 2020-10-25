@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Open-access regulatory genomics database"
-summary: "We have developed an open-access, interactive website that allows users to probe temporal patterns of gene expression, chromatin accessibility, functional enhancers and transcription factor binding across mouse forebrain development accessible at [mousebraindev.com](https://www.mousebraindev.com)"
+summary: "Mammalian CNS neurons aren’t always refractory to re-growth, instead lose the ability in a discrete developmental transition. Identifying the molecular regulatory codes that control this developmental transition is the first-step in devising strategies to reprogram adult neurons back to a growth-competent state. Projects like the ENCODE consortia have generated several brain-specific genomics datasets that comprehensively profile various molecular changes across neuronal maturation. Yet, accessing, integrating and visualizing these datasets require computational expertise. We have developed an open-access, interactive website that allows users to probe temporal patterns of gene expression, chromatin accessibility, functional enhancers and transcription factor binding across mouse forebrain development accessible at [mousebraindev.com](https://www.mousebraindev.com)"
 authors: []
 tags: []
 categories: []
 date: 2020-06-27T08:54:20+05:30
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://www.mousebraindev.com"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
